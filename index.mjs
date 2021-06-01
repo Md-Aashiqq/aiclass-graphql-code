@@ -1,5 +1,5 @@
 import { ApolloServer, gql, PubSub, withFilter } from "apollo-server";
-let emotions = [{ id: "2", type: "sad" }];
+let emotions = [];
 // Schema definition
 
 // Schema definition
